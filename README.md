@@ -1,5 +1,6 @@
-### Hi there 👋, I'm Ganesh!
+## Hi there 👋, I'm Ganesh!
 
+I love to create beautiful performant products with delightful user experiences. Driven by **Solution Mindset**, I believe in building the right solutions that impact end-users & solve real-world problems🌏.
 
 **Languages and Tools:**  
 
@@ -43,4 +44,3 @@
 <code><img height="20" title="Postman" alt="Postman" src="https://avatars3.githubusercontent.com/u/10251060?s=20&v=4"></code>
 <code><img height="20" title="Zeplin" alt="Zeplin" src="https://avatars3.githubusercontent.com/u/6152453?s=20&v=4"></code>
 <code><img height="20" title="Unity" alt="Unity" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-
