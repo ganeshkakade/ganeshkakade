@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Ganesh! (Fubuki)
+### Hi there 👋, I'm Ganesh!
+
 
 <!--
 **ganeshkakade/ganeshkakade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
