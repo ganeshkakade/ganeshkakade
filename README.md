@@ -1,8 +1,22 @@
 ## Hi there 👋, I'm Ganesh!
 
-I love to create beautiful performant products with delightful user experiences. Driven by **Solution Mindset**, I believe in building the right solutions that impact end-users & solve real-world problems🌏.
+I love to create beautiful performant 🚀 products with delightful user experiences. Driven by **Solution Mindset**, I believe in building the right solutions that impact end-users & solve real-world problems🌏.
 
-**Languages and Tools:**  
+☕ **Connect with me:**
+
+✨**About Me!**
+
+- 👨🏽‍💻 I’m
+- 🌱 I’m
+- 🤔 My interests
+- 💼 I’m 
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at 
+- 📝 See my 
+
+
+
+🛠️**Languages and Tools:**  
 
 <code><img height="20" title="React" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" title="Angular" alt="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
