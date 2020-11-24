@@ -40,7 +40,7 @@
 <code><img height="20" title="Selenium" alt="Selenium" src="https://avatars0.githubusercontent.com/u/983927?s=20&v=4"></code>
 <code><img height="20" title="UiPath" alt="UiPath" src="https://avatars3.githubusercontent.com/u/375663?s=20&v=4"></code>
 <code><img height="20" title="Adobe XD" alt="Adobe XD" src="https://avatars0.githubusercontent.com/u/41522403?s=20&v=4"></code>
-<code><img height="20" title="Zeplin" alt="Zeplin" src="https://avatars3.githubusercontent.com/u/10251060?s=20&v=4"></code>
-<code><img height="20" title="Postman" alt="Postman" src="https://avatars3.githubusercontent.com/u/6152453?s=20&v=4"></code>
+<code><img height="20" title="Postman" alt="Postman" src="https://avatars3.githubusercontent.com/u/10251060?s=20&v=4"></code>
+<code><img height="20" title="Zeplin" alt="Zeplin" src="https://avatars3.githubusercontent.com/u/6152453?s=20&v=4"></code>
 <code><img height="20" title="Unity" alt="Unity" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 
