@@ -21,9 +21,9 @@ I love to create beautiful performant 🚀 products with delightful user experie
 
 ✨**About Me!**
 
-- 🔭 Currently working on Solution Architecture, Web/Mobile Technologies
-- 🌱 Learning Data Science & Business Analytics
-- 👯 Open for collaboration in Automation & Machine Learning
+- 🔭 Currently working on **Solution Architecture**, Web/Mobile Technologies
+- 🌱 Learning **Data Science** & Business Analytics
+- 👯 Open for collaboration in **Automation** & Machine Learning
 - 💬 Ask me about Manga, Anime, anything that interests you. 
 
 #
