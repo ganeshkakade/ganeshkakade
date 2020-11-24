@@ -17,7 +17,7 @@ I love to create beautiful performant 🚀 products with delightful user experie
 
 #
 
-<img align="right" alt="" src="https://raw.githubusercontent.com/ganeshkakade/ganeshkakade/main/assets/dog.jpg" />
+<img align="right" alt="" src="https://raw.githubusercontent.com/ganeshkakade/ganeshkakade/main/assets/dog.jpg" width="250" height="250"/>
 
 ✨**About Me!**
 
