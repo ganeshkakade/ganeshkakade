@@ -2,19 +2,33 @@
 
 I love to create beautiful performant 🚀 products with delightful user experiences. Driven by **Solution Mindset**, I believe in building the right solutions that impact end-users & solve real-world problems🌏.
 
+#
+
 ☕ **Connect with me:**
+
+[<img align="left" alt="Ganesh Kakade | Gmail" height="24px" src="https://www.flaticon.com/svg/static/icons/svg/2991/2991144.svg" />][gmail]
+[<img align="left" alt="Ganesh Kakade | LinkedIn" height="24px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>][linkedin]
+[<img align="left" alt="Ganesh Kakade | Website" height="24px" src="https://www.flaticon.com/svg/static/icons/svg/841/841568.svg" />][website]
+<img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ganeshkakade&repo=ganeshkakade&countColorcountColor&countColor=%232980B9"/>
+
+[gmail]: mailto:ganeshkakade.work@gmail.com
+[linkedin]: https://www.linkedin.com/in/ganesh-kakade
+[website]: https://ganeshkakade.github.io
+
+<br />
+
+#
+
+<img align="right" alt="" src="" width="500" height="320" />
 
 ✨**About Me!**
 
-- 👨🏽‍💻 I’m
-- 🌱 I’m
-- 🤔 My interests
-- 💼 I’m 
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at 
-- 📝 See my 
+- 🔭 Currently working on Solution Architecture, Web/Mobile Technologies
+- 🌱 Learning Data Science & Business Analytics
+- 👯 Open for collaboration in Automation & Machine Learning
+- 💬 Ask me about Manga, Anime, anything that interests you. 
 
-
+#
 
 🛠️**Languages and Tools:**  
 
