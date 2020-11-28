@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm [Ganesh](https://github.com/ganeshkakade)!
 
-I love to create beautiful performant 🚀 products with delightful user experiences. Driven by **Solution Mindset**, I believe in building the right solutions that impact end-users & solve real-world problems🌏.
+I love to create beautiful performant 🚀 products with delightful user experiences. Driven by **Solution Mindset**, I believe in building the right solutions that impact end-users & solve real-world problems 🌏.
 
 ☕ **Connect with me:**
 
