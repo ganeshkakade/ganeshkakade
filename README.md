@@ -7,7 +7,6 @@ I love to create beautiful performant 🚀 products with delightful user experie
 [<img align="left" alt="Ganesh Kakade | Gmail" height="24px" src="https://www.flaticon.com/svg/static/icons/svg/2991/2991144.svg" />][gmail]
 [<img align="left" alt="Ganesh Kakade | LinkedIn" height="24px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>][linkedin]
 [<img align="left" alt="Ganesh Kakade | Website" height="24px" src="https://www.flaticon.com/svg/static/icons/svg/841/841568.svg" />][website]
-<img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ganeshkakade&repo=ganeshkakade&countColorcountColor&countColor=%232980B9"/>
 
 [gmail]: mailto:ganeshkakade.work@gmail.com
 [linkedin]: https://www.linkedin.com/in/ganesh-kakade
