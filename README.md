@@ -1,13 +1,6 @@
-<style>
-    .img-rounded {
-        border-radious: 4px;
-        display: inline-block;
-    }
-</style>
-
 # Hi, I'm Ganesh 👋 👨‍💻
 
-<img class="img-rounded" title="Software Engineering" alt="Software Engineering" src="https://github.com/ganeshkakade/ganeshkakade/blob/main/assets/software%20engineering.jpg"/>
+<img title="Software Engineering" alt="Software Engineering" src="https://github.com/ganeshkakade/ganeshkakade/blob/main/assets/software%20engineering.jpg"/>
 
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and solving real-world problems.
 
