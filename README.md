@@ -1,4 +1,4 @@
-# Hi, I'm Ganesh 👋 👨‍💻
+# Hi, I'm Ganesh 👋
 
 <img title="Software Engineering" alt="Software Engineering" src="https://github.com/ganeshkakade/ganeshkakade/blob/main/assets/software%20engineer.jpg"/>
 
